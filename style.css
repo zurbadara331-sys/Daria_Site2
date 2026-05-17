@@ -389,7 +389,7 @@ label[for=next] {
 .services .information .service .picture {
     width: 70px;
     height: 70px;
-    background: url(/video.png) center/cover;
+    background: url(video.png) center/cover;
     margin-bottom: 20px;
 }
 
