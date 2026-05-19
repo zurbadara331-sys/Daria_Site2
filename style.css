@@ -457,7 +457,7 @@ input {
 .services .information .service .picture {
     width: 70px;
     height: 70px;
-    background: url(/video.png) center/cover;
+    background: url(video.png) center/cover;
     margin-bottom: 20px;
 }
 
@@ -506,21 +506,21 @@ input {
 .choose>a:first-child .image {
     width: 40px;
     height: 40px;
-    background: url(/phone-call.png) center/cover;
+    background: url(phone-call.png) center/cover;
     margin-bottom: 10px;
 }
 
 .choose>a:nth-child(2) .image {
     width: 40px;
     height: 40px;
-    background: url(/email.png) center/cover;
+    background: url(email.png) center/cover;
     margin-bottom: 10px;
 }
 
 .choose>a:last-child .image {
     width: 40px;
     height: 40px;
-    background: url(/gps.png) center/cover;
+    background: url(gps.png) center/cover;
     margin-bottom: 10px;
 }
 
